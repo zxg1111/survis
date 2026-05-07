@@ -5,9 +5,9 @@ $(document).ready(function () {
   page.update(true);
 
   selectors.toggleSelector('keywords', 'type:surrogate');
-  selectors.toggleSelector('keywords', 'type:view-planning');
-  selectors.toggleSelector('keywords', 'type:route');
+  selectors.toggleSelector('keywords', 'type:tsp');
   selectors.toggleSelector('keywords', 'type:energy');
+  selectors.toggleSelector('keywords', 'type:nsga-ii');
 
   selectors.readQueryFromUrl();
 });
