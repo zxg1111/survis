@@ -2,7 +2,7 @@
  * Name as used as title for the main page
  * @type {string}
  */
-var title = 'Surrogate-Assisted NSGA-II for UAV Viewpoint Planning';
+var title = 'Surrogate-Assisted Optimisation for UAV Viewpoint Planning';
 
 /**
  * Relative path to the data directory
